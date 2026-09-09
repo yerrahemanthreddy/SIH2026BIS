@@ -1,0 +1,6 @@
+{
+  "name": "BIS Standards Intelligent Assistant",
+  "description": "AI-powered discovery and intelligent assistance for Indian Standards (IS) and BIS services for industries and consumers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
